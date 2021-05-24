@@ -17,5 +17,4 @@ def lessgo():
     app_hatml.close
     print("HTML-structure DONE!\n")
     what_next = input("Enter anything to run app.py... ")
-    if len(what_next) > 0:
-        os.system("app.py")
+    print("Well done! Run app.py")
