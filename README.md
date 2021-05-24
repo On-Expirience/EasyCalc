@@ -12,5 +12,6 @@ Manual for use
 >*python -m pip install flask*
 2) Upload *easyc.py* and *loader.py* to one directory
 3) Launch the *loader.py* and enjoy!
+>*you may have to start the app.py if it does not start itself after generation.*
 
   
